@@ -1,2 +1,5 @@
 # wmap
-Wedding ceremony slippy map
+## Wedding ceremony slippy map
+### Setup
+### Public links
+
